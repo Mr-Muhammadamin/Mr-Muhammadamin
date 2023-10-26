@@ -1,4 +1,4 @@
-<h1 align="center">PYTHON Developer</h1>
+<h1 align="center">FUTURE PYTHON PROGRAMMER AND BILLIONAIRE </h1>
 
 ### Hi there, I started programming 👋
 
@@ -7,15 +7,15 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bekzod818&theme=github_dark" alt="info">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekzod818&theme=github_dark&show_icons=true)](https://github.com/bekzod818/) [![Bekzod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bekzod818&theme=github_dark&layout=compact)](https://wakatime.com/@c456c315-79a0-4119-8f29-54399483d36a)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekzod818&theme=github_dark&show_icons=true)](https://github.com/bekzod818/) [![Muhammadamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mr-Muhammadamin&theme=github_dark&layout=compact)](https://wakatime.com/@c456c315-79a0-4119-8f29-54399483d36a)
 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
 
-[![Bekzod's github stats](https://github-readme-stats.vercel.app/api?username=bekzod818&theme=github_dark&show_icons=true)](https://github.com/bekzod818/)
+[![Muhammadamin's github stats](https://github-readme-stats.vercel.app/api?username=bekzod818&theme=github_dark&show_icons=true)](https://github.com/Mr-Muhammadamin/)
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bekzod818&theme=tokyonight_duo&hide_border=true)](https://github.com/bekzod818/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bekzod818&theme=tokyonight_duo&hide_border=true)](https://github.com/Mr-Muhammadamin/)
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
 
@@ -51,16 +51,16 @@
 **Learning**
 
 <p> 
-<img src="https://komarev.com/ghpvc/?username=bekzod818&color=brightgreen" alt="bekzod818"/>
-<a href="https://github.com/bekzod818?tab=followers">
-    <img src="https://img.shields.io/github/followers/bekzod818?label=Followers&style=social" alt="followers-count">
+<img src="https://komarev.com/ghpvc/?username=Mr-Muhammadamin&color=brightgreen" alt="Mr-Muhammadamin"/>
+<a href="https://github.com/Mr-Muhammadamin?tab=followers">
+    <img src="https://img.shields.io/github/followers/Mr-Muhammadamin?label=Followers&style=social" alt="followers-count">
 </a>
 
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=bekzod818&theme=xcode" />
+<img src="https://activity-graph.herokuapp.com/graph?username=Mr-Muhammadamin&theme=xcode" />
 <!-- <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg"we> -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=bekzod818&margin-w=5&theme=radical" alt="info" />
+<img src="https://github-profile-trophy.vercel.app/?username=Mr-Muhammadamin&margin-w=5&theme=radical" alt="info" />
 
 <p>
   <img src="https://img.icons8.com/ios/96/26e07f/django.png"/>
@@ -72,7 +72,6 @@
 
 - :computer: I'm currently working on Laravel & Vue
 - :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
-- :triangular_flag_on_post: I teach code on YouTube
 - :muscle: Do Bodybuilding & Calisthenics
 - :rocket: Always ready to collaborate for Dev Experiments
 
@@ -102,6 +101,6 @@
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sukhrobnuraliev&show_icons=true&theme=gotham" alt="sukhrobnuraliev" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mr-Muhammadamin&show_icons=true&theme=gotham" alt="Mr-Muhammadamin" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukhrobnuraliev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="sukhrobnuraliev" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mr-Muhammadamin&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Mr-Muhammadamin" /></a> </p>
