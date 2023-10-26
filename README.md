@@ -5,14 +5,14 @@
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bekzod818&theme=github_dark" alt="info">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-Muhammadamin&theme=github_dark" alt="info">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekzod818&theme=github_dark&show_icons=true)](https://github.com/bekzod818/) [![Muhammadamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mr-Muhammadamin&theme=github_dark&layout=compact)](https://wakatime.com/@c456c315-79a0-4119-8f29-54399483d36a)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Muhammadamin&theme=github_dark&show_icons=true)](https://github.com/Mr-Muhammadamin/) [![Muhammadamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mr-Muhammadamin&theme=github_dark&layout=compact)](https://wakatime.com/@c456c315-79a0-4119-8f29-54399483d36a)
 
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
 
-[![Muhammadamin's github stats](https://github-readme-stats.vercel.app/api?username=bekzod818&theme=github_dark&show_icons=true)](https://github.com/Mr-Muhammadamin/)
+[![Muhammadamin's github stats](https://github-readme-stats.vercel.app/api?username=Mr-Muhammadamin&theme=github_dark&show_icons=true)](https://github.com/Mr-Muhammadamin/)
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bekzod818&theme=tokyonight_duo&hide_border=true)](https://github.com/Mr-Muhammadamin/)
