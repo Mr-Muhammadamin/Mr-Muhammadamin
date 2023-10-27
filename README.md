@@ -12,10 +12,10 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
 
-[![Muhammadamin's github stats](https://github-readme-stats.vercel.app/api?username=Mr-Muhammadamin&theme=github_dark&show_icons=true)](https://github.com/bekzod818/)
+[![Muhammadamin's github stats](https://github-readme-stats.vercel.app/api?username=Mr-Muhammadamin&theme=github_dark&show_icons=true)](https://github.com/Mr-Muhammadamin/)
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mr-Muhammadamin&theme=tokyonight_duo&hide_border=true)](https://github.com/Mr-Muhammadamin/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mr-Muhammadamin&theme=tokyonight_duo&hide_border=true)](https://github.com/bekzod818/)
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
 
