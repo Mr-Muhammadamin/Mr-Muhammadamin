@@ -1,6 +1,6 @@
 <h1 align="center">FUTURE PYTHON PROGRAMMER AND BILLIONAIRE </h1>
 
-### Hi there, I started programming 👋
+### Salom Aleykum, I started programming 👋
 
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
@@ -15,7 +15,7 @@
 [![Muhammadamin's github stats](https://github-readme-stats.vercel.app/api?username=Mr-Muhammadamin&theme=github_dark&show_icons=true)](https://github.com/Mr-Muhammadamin/)
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mr-Muhammadamin&theme=tokyonight_duo&hide_border=true)](https://github.com/bekzod818/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mr-Muhammadamin&theme=tokyonight_duo&hide_border=true)](https://github.com/Mr-Muhammadamin/)
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
 
