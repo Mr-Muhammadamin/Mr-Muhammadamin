@@ -1,8 +1,5 @@
-<h1 align="center">FUTURE PYTHON PROGRAMMER AND BILLIONAIRE </h1>
-
-
 <div align="center">
-    <img align="center" src="[dino.gif](https://github.com/mrepol742/mrepol742/blob/master/dino.gif)">
+    <img align="center" src=(https://github.com/mrepol742/mrepol742/blob/master/dino.gif)>
 </div>
 
 
