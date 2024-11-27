@@ -1,6 +1,12 @@
 <h1 align="center">FUTURE PYTHON PROGRAMMER AND BILLIONAIRE </h1>
 
-### Salom Aleykum, I started programming 👋
+
+<div align="center">
+    <img align="center" src="[dino.gif](https://github.com/mrepol742/mrepol742/blob/master/dino.gif)">
+</div>
+
+
+### Hi, I'm  programmer 👋
 
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
