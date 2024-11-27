@@ -1,5 +1,5 @@
 <div align="center">
-    <img align="center" src=[(https://github.com/mrepol742/mrepol742/blob/master/dino.gif)](https://i.gifer.com/AAiz.mp4)>
+    <img align="center" src="[(https://github.com/mrepol742/mrepol742/blob/master/dino.gif)](https://i.gifer.com/AAiz.mp4)">
 </div>
 
 
