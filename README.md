@@ -99,7 +99,7 @@ class Muhammadamin:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Mr-Muhammadamin&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Muhammadamin&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub Streak" />
 
 </div>
 
