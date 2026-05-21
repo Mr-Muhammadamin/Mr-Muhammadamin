@@ -1,109 +1,157 @@
+<!-- ============================================= -->
+<!--            ANIMATSIYALI SARLAVHA              -->
+<!-- ============================================= -->
+
 <div align="center">
-    <img align="center" src="[(https://github.com/mrepol742/mrepol742/blob/master/dino.gif)](https://i.gifer.com/AAiz.mp4)">
-</div>
 
-
-### Hi, I'm  programmer 👋
-
-
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-Muhammadamin&theme=github_dark" alt="info">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Muhammadamin&theme=github_dark&show_icons=true)](https://github.com/Mr-Muhammadamin/) [![Muhammadamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mr-Muhammadamin&theme=github_dark&layout=compact)](http://myurls.co/muhammadamin.ozodov)
-
-
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
-
-[![Muhammadamin's github stats](https://github-readme-stats.vercel.app/api?username=Mr-Muhammadamin&theme=github_dark&show_icons=true)](https://github.com/Mr-Muhammadamin/)
-<!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mr-Muhammadamin&theme=tokyonight_duo&hide_border=true)](https://github.com/Mr-Muhammadamin/)
-<!-- https://github.com/denvercoder1/github-readme-streak-stats -->
-
-
-
-**Back-end**
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
-![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
-![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
-
-**Databases**
-
-![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![SQLite](https://img.shields.io/badge/-Sqlite-%232c3e50?style=flat-square&logo=Sqlite)
-
-**Front-end**
-
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-
-**Tools**
-
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
-
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-<img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="digitalocean" />
-
-**Learning**
-
-<p> 
-<img src="https://komarev.com/ghpvc/?username=Mr-Muhammadamin&color=brightgreen" alt="Mr-Muhammadamin"/>
-<a href="https://github.com/Mr-Muhammadamin?tab=followers">
-    <img src="https://img.shields.io/github/followers/Mr-Muhammadamin?label=Followers&style=social" alt="followers-count">
+<a href="https://github.com/Mr-Muhammadamin">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Salom!+Men+Muhammadamin+%F0%9F%91%8B;Python+Backend+Developer+%F0%9F%90%8D;Data+Analyst+%F0%9F%93%8A;T-SQL+%7C+Power+BI+%7C+Python" alt="Typing SVG" />
 </a>
 
-</p>
-<img src="https://activity-graph.herokuapp.com/graph?username=Mr-Muhammadamin&theme=xcode" />
-<!-- <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg"we> -->
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mr-Muhammadamin&margin-w=5&theme=radical" alt="info" />
+<!-- ============================================= -->
+<!--                 BANNER GIF                    -->
+<!-- ============================================= -->
 
-<p>
-  <img src="https://img.icons8.com/ios/96/26e07f/django.png"/>
-<img src="https://img.icons8.com/color/96/000000/postgreesql.png"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
+</div>
 
-  
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<br/>
 
-- :computer: I'm currently working on Laravel & Vue
-- :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
-- :muscle: Do Bodybuilding & Calisthenics
-- :rocket: Always ready to collaborate for Dev Experiments
+<!-- ============================================= -->
+<!--                  HAQIMDA                      -->
+<!-- ============================================= -->
 
-## ⚡ Technologies
+## 🧑‍💻 Men haqimda
 
-![Image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Image](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Image](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Image](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Image](https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
-![Image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Image](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
-![Image](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-![Image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Image](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Image](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
-![Image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Image](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Image](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Image](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+```python
+class Muhammadamin:
+    def __init__(self):
+        self.kasb = "Python Backend Developer & Data Analyst"
+        self.til = ["O'zbek", "Rus", "English"]
+        self.stack = {
+            "backend": ["Python", "FastAPI", "Django"],
+            "data": ["T-SQL", "Power BI", "Pandas"],
+            "databases": ["PostgreSQL", "MS SQL Server"],
+        }
+        self.hozir_organayapman = "Data Engineering & System Design"
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mr-Muhammadamin&show_icons=true&theme=gotham" alt="Mr-Muhammadamin" />
+    def hayot_falsafasi(self):
+        return "Ma'lumotlardan ma'no chiqarish va toza kod yozish 🚀"
+```
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mr-Muhammadamin&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Mr-Muhammadamin" /></a> </p>
+- 🔭 Hozir **backend tizimlari** va **ma'lumotlar tahlili** ustida ishlayapman
+- 🌱 **Data Engineering** va arxitektura yo'nalishini chuqurlashtiryapman
+- 💬 Python, SQL va BI bo'yicha savollar bo'lsa — bemalol murojaat qiling
+- 📊 Raqamlardan hikoya yaratishni yaxshi ko'raman
+
+<br/>
+
+<!-- ============================================= -->
+<!--                TECH STACK                     -->
+<!-- ============================================= -->
+
+## 🛠️ Texnologiyalar
+
+<div align="center">
+
+### Tillar & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Ma'lumotlar bazasi
+![MS SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Data Analysis & BI
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### Vositalar
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ============================================= -->
+<!--             GITHUB STATISTIKA                 -->
+<!-- ============================================= -->
+
+## 📊 GitHub Statistikasi
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mr-Muhammadamin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Muhammadamin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Mr-Muhammadamin&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mr-Muhammadamin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+
+</div>
+
+<br/>
+
+<!-- ============================================= -->
+<!--             FAOLLIK GRAFIGI                   -->
+<!-- ============================================= -->
+
+## 📈 Faollik grafigi
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Muhammadamin&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=22D3EE&point=FFFFFF" alt="Activity Graph" width="100%" />
+
+</div>
+
+<br/>
+
+<!-- ============================================= -->
+<!--                  ALOQA                        -->
+<!-- ============================================= -->
+
+## 📫 Men bilan bog'lanish
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadaminozadov@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadamin-ozadov)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Muhammadamin_Ozadov)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-Muhammadamin)
+
+</div>
+
+<br/>
+
+<!-- ============================================= -->
+<!--               PROFIL KO'RISHLAR              -->
+<!-- ============================================= -->
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mr-Muhammadamin&style=for-the-badge&color=22D3EE&label=PROFIL+KO%27RISHLAR)
+
+<br/><br/>
+
+⭐️ <i>"Ma'lumotlar — bu yangi neft, lekin uni qayta ishlamasangiz, foydasi yo'q."</i> ⭐️
+
+</div>
