@@ -18,12 +18,7 @@ Backend tizimlarini quraman va ma'lumotlardan ma'no chiqaraman.
 ![FastAPI](https://img.shields.io/badge/FastAPI-4a6741?style=flat-square&logo=fastapi&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-85546a?style=flat-square&logo=pandas&logoColor=white)
 
-<br/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mr-Muhammadamin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=faf7f2&title_color=85546a&icon_color=85546a&text_color=7a705e&border_radius=20" alt="stats" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Muhammadamin&layout=compact&langs_count=6&hide_border=true&bg_color=faf7f2&title_color=85546a&text_color=7a705e&border_radius=20" alt="top langs" />
-
-<br/><br/>
 
 [![Email](https://img.shields.io/badge/Email-dce8d8?style=for-the-badge&logo=gmail&logoColor=4a6741)](mailto:muhammadaminozadov@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-e6ecf5?style=for-the-badge&logo=linkedin&logoColor=5a6b85)](https://www.linkedin.com/in/muhammadamin-ozadov)
