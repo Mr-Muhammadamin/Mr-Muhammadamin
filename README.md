@@ -1,10 +1,12 @@
-<html lang="uz"><head>
+<!DOCTYPE html>
+<html lang="uz">
+<head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Muhammadamin Ozadov · Backend Developer &amp; Data Analyst</title>
+<title>Muhammadamin Ozadov · Backend Developer & Data Analyst</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&amp;family=Outfit:wght@300;400;500;600&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Outfit:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   :root {
     --cream:   #faf7f2;
@@ -221,7 +223,7 @@
       <div class="code-card">
 <span class="k">def</span> <span class="f">muhammadamin</span>():<br>
 &nbsp;&nbsp;<span class="k">return</span> {<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span class="s">"rol"</span>: <span class="s">"Backend &amp; Analyst"</span>,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span class="s">"rol"</span>: <span class="s">"Backend & Analyst"</span>,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<span class="s">"til"</span>: [<span class="s">"Python"</span>, <span class="s">"SQL"</span>],<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<span class="s">"joy"</span>: <span class="s">"Toshkent"</span>,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<span class="s">"sevimli"</span>: <span class="s">"toza kod"</span>,<br>
@@ -242,7 +244,7 @@
         <div class="tech"><span>Python</span><span>FastAPI</span><span>Django</span><span>Flask</span></div>
       </div>
       <div class="stack-card p">
-        <h3>📊 Data &amp; BI</h3>
+        <h3>📊 Data & BI</h3>
         <div class="tech"><span>Power BI</span><span>Pandas</span><span>NumPy</span><span>Plotly</span></div>
       </div>
       <div class="stack-card b">
@@ -271,15 +273,17 @@
       <h2>Statistika</h2>
     </div>
     <div class="stats-grid">
-      <div class="stat"><div class="num" id="st-repos">11</div><div class="lbl">repolar</div></div>
-      <div class="stat"><div class="num" id="st-stars">0</div><div class="lbl">yulduzlar</div></div>
-      <div class="stat"><div class="num" id="st-followers">5</div><div class="lbl">followerlar</div></div>
-      <div class="stat"><div class="num" id="st-following">10</div><div class="lbl">following</div></div>
+      <div class="stat"><div class="num" id="st-repos">—</div><div class="lbl">repolar</div></div>
+      <div class="stat"><div class="num" id="st-stars">—</div><div class="lbl">yulduzlar</div></div>
+      <div class="stat"><div class="num" id="st-followers">—</div><div class="lbl">followerlar</div></div>
+      <div class="stat"><div class="num" id="st-following">—</div><div class="lbl">following</div></div>
     </div>
     <div class="langbar-card">
-      <div class="t">Top tillar <span id="lang-status" style="color:var(--soft);font-weight:400;"></span></div>
-      <div class="langbar" id="langbar"><i style="width: 38%; background: rgb(74, 103, 65);"></i><i style="width: 25%; background: rgb(90, 107, 133);"></i><i style="width: 13%; background: rgb(133, 84, 106);"></i><i style="width: 13%; background: rgb(138, 122, 94);"></i><i style="width: 13%; background: rgb(122, 155, 110);"></i></div>
-      <div class="leg" id="langleg"><span><i class="dot" style="background:#4a6741"></i> Python 38%</span><span><i class="dot" style="background:#5a6b85"></i> HTML 25%</span><span><i class="dot" style="background:#85546a"></i> JavaScript 13%</span><span><i class="dot" style="background:#8a7a5e"></i> TypeScript 13%</span><span><i class="dot" style="background:#7a9b6e"></i> SCSS 13%</span></div>
+      <div class="t">Top tillar <span id="lang-status" style="color:var(--soft);font-weight:400;">(yuklanmoqda…)</span></div>
+      <div class="langbar" id="langbar">
+        <i style="width:100%;background:var(--cream-2)"></i>
+      </div>
+      <div class="leg" id="langleg"></div>
     </div>
   </section>
 
@@ -291,16 +295,16 @@
     </div>
     <div class="contact">
       <a class="clink g" href="mailto:muhammadaminozadov@gmail.com">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16v16H4z"></path><path d="m4 6 8 6 8-6"></path></svg> Email
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16v16H4z"/><path d="m4 6 8 6 8-6"/></svg> Email
       </a>
       <a class="clink b" href="https://www.linkedin.com/in/muhammadamin-ozadov" target="_blank">
-        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.79M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77z"></path></svg> LinkedIn
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.79M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77z"/></svg> LinkedIn
       </a>
       <a class="clink p" href="https://t.me/Muhammadamin_Ozadov" target="_blank">
-        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M9.78 18.65l.28-4.23 7.68-6.92c.34-.31-.07-.46-.52-.19L7.74 13.3 3.64 12c-.88-.25-.89-.86.2-1.3l15.97-6.16c.73-.33 1.43.18 1.15 1.3l-2.72 12.81c-.19.91-.74 1.13-1.5.71L12.6 16.3l-1.99 1.93c-.23.23-.42.42-.83.42z"></path></svg> Telegram
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M9.78 18.65l.28-4.23 7.68-6.92c.34-.31-.07-.46-.52-.19L7.74 13.3 3.64 12c-.88-.25-.89-.86.2-1.3l15.97-6.16c.73-.33 1.43.18 1.15 1.3l-2.72 12.81c-.19.91-.74 1.13-1.5.71L12.6 16.3l-1.99 1.93c-.23.23-.42.42-.83.42z"/></svg> Telegram
       </a>
       <a class="clink s" href="https://github.com/Mr-Muhammadamin" target="_blank">
-        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2A10 10 0 0 0 2 12c0 4.42 2.87 8.17 6.84 9.5.5.08.66-.23.66-.5v-1.69c-2.77.6-3.36-1.34-3.36-1.34-.46-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.87 1.52 2.34 1.07 2.91.83.09-.65.35-1.09.63-1.34-2.22-.25-4.55-1.11-4.55-4.92 0-1.11.38-2 1.03-2.71-.1-.25-.45-1.29.1-2.64 0 0 .84-.27 2.75 1.02.79-.22 1.65-.33 2.5-.33.85 0 1.71.11 2.5.33 1.91-1.29 2.75-1.02 2.75-1.02.55 1.35.2 2.39.1 2.64.65.71 1.03 1.6 1.03 2.71 0 3.82-2.34 4.66-4.57 4.91.36.31.69.92.69 1.85V21c0 .27.16.59.67.5C19.14 20.16 22 16.42 22 12A10 10 0 0 0 12 2z"></path></svg> GitHub
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2A10 10 0 0 0 2 12c0 4.42 2.87 8.17 6.84 9.5.5.08.66-.23.66-.5v-1.69c-2.77.6-3.36-1.34-3.36-1.34-.46-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.87 1.52 2.34 1.07 2.91.83.09-.65.35-1.09.63-1.34-2.22-.25-4.55-1.11-4.55-4.92 0-1.11.38-2 1.03-2.71-.1-.25-.45-1.29.1-2.64 0 0 .84-.27 2.75 1.02.79-.22 1.65-.33 2.5-.33.85 0 1.71.11 2.5.33 1.91-1.29 2.75-1.02 2.75-1.02.55 1.35.2 2.39.1 2.64.65.71 1.03 1.6 1.03 2.71 0 3.82-2.34 4.66-4.57 4.91.36.31.69.92.69 1.85V21c0 .27.16.59.67.5C19.14 20.16 22 16.42 22 12A10 10 0 0 0 12 2z"/></svg> GitHub
       </a>
     </div>
   </section>
@@ -406,6 +410,5 @@
   obs.observe(document.querySelector(".stats-grid"));
 </script>
 
-
-
-</body></html>
+</body>
+</html>
